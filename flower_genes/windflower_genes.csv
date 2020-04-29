@@ -1,0 +1,139 @@
+breading_pair,breading_results,breading_pair_color,breading_results_color,probability
+"['RR-oo-WW', 'RR-oo-WW']",['RR-oo-WW'],"['Red (seed)', 'Red (seed)']",['Red (seed)'],['100%']
+"['RR-oo-WW', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww']","['Red (seed)', 'White (seed)']","['Red', 'Red']","['50%', '50%']"
+"['rr-OO-WW', 'rr-OO-WW']",['rr-OO-WW'],"['Orange (seed)', 'Orange (seed)']",['Orange (seed)'],['100%']
+"['rr-OO-WW', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww']","['Orange (seed)', 'White (seed)']","['Orange', 'Orange']","['50%', '50%']"
+"['rr-oo-Ww', 'rr-oo-Ww']","['rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['White (seed)', 'White (seed)']","['White', 'White (seed)', 'Blue']","['33%', '33%', '33%']"
+"['RR-oo-WW', 'RR-oo-WW']",['RR-oo-WW'],"['Red (seed)', 'Red (seed)']",['Red (seed)'],['100%']
+"['RR-oo-WW', 'Rr-oo-WW']","['RR-oo-WW', 'Rr-oo-WW']","['Red (seed)', 'Red']","['Red (seed)', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'Rr-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'Rr-oo-WW', 'Rr-oo-Ww']","['Red (seed)', 'Red']","['Red (seed)', 'Red', 'Red', 'Red']","['25%', '25%', '25%', '25%']"
+"['RR-oo-WW', 'rr-Oo-WW']",['Rr-oo-WW'],"['Red (seed)', 'Orange']",['Red'],['100%']
+"['RR-oo-WW', 'rr-Oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww']","['Red (seed)', 'Orange']","['Red', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'rr-oo-WW']",['Rr-oo-WW'],"['Red (seed)', 'White']",['Red'],['100%']
+"['RR-oo-WW', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww']","['Red (seed)', 'White (seed)']","['Red', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'rr-oo-ww']",['Rr-oo-Ww'],"['Red (seed)', 'Blue']",['Red'],['100%']
+"['Rr-oo-WW', 'Rr-oo-WW']","['RR-oo-WW', 'Rr-oo-WW', 'rr-oo-WW']","['Red', 'Red']","['Red (seed)', 'Red', 'White']","['33%', '33%', '33%']"
+"['Rr-oo-WW', 'Rr-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'Rr-oo-WW', 'Rr-oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Red', 'Red']","['Red (seed)', 'Red', 'Red', 'Red', 'White', 'White (seed)']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['Rr-oo-WW', 'rr-Oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'Orange']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-WW', 'rr-Oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Red', 'Orange']","['Red', 'Red', 'White', 'White (seed)']","['25%', '25%', '25%', '25%']"
+"['Rr-oo-WW', 'rr-oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'White']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-WW', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Red', 'White (seed)']","['Red', 'Red', 'White', 'White (seed)']","['25%', '25%', '25%', '25%']"
+"['Rr-oo-WW', 'rr-oo-ww']","['Rr-oo-Ww', 'rr-oo-Ww']","['Red', 'Blue']","['Red', 'White (seed)']","['50%', '50%']"
+"['Rr-oo-Ww', 'Rr-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'RR-oo-ww', 'Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Red']","['Red (seed)', 'Red', 'Purple', 'Red', 'Red', 'Blue', 'White', 'White (seed)', 'Blue']","['11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%']"
+"['Rr-oo-Ww', 'rr-Oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'Orange']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-Ww', 'rr-Oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Orange']","['Red', 'Red', 'Blue', 'White', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['Rr-oo-Ww', 'rr-oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'White']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-Ww', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'White (seed)']","['Red', 'Red', 'Blue', 'White', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['Rr-oo-Ww', 'rr-oo-ww']","['Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Blue']","['Red', 'Blue', 'White (seed)', 'Blue']","['25%', '25%', '25%', '25%']"
+"['rr-OO-WW', 'rr-OO-WW']",['rr-OO-WW'],"['Orange (seed)', 'Orange (seed)']",['Orange (seed)'],['100%']
+"['rr-OO-WW', 'rr-Oo-WW']","['rr-OO-WW', 'rr-Oo-WW']","['Orange (seed)', 'Orange']","['Orange (seed)', 'Orange']","['50%', '50%']"
+"['rr-OO-WW', 'rr-Oo-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-Oo-WW', 'rr-Oo-Ww']","['Orange (seed)', 'Orange']","['Orange (seed)', 'Orange', 'Orange', 'Orange']","['25%', '25%', '25%', '25%']"
+"['rr-OO-WW', 'rr-oo-WW']",['rr-Oo-WW'],"['Orange (seed)', 'White']",['Orange'],['100%']
+"['rr-OO-WW', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww']","['Orange (seed)', 'White (seed)']","['Orange', 'Orange']","['50%', '50%']"
+"['rr-OO-WW', 'rr-oo-ww']",['rr-Oo-Ww'],"['Orange (seed)', 'Blue']",['Orange'],['100%']
+"['rr-Oo-WW', 'rr-Oo-WW']","['rr-OO-WW', 'rr-Oo-WW', 'rr-oo-WW']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'White']","['33%', '33%', '33%']"
+"['rr-Oo-WW', 'rr-Oo-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-Oo-WW', 'rr-Oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'Orange', 'Orange', 'White', 'White (seed)']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['rr-Oo-WW', 'rr-oo-WW']","['rr-Oo-WW', 'rr-oo-WW']","['Orange', 'White']","['Orange', 'White']","['50%', '50%']"
+"['rr-Oo-WW', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Orange', 'White (seed)']","['Orange', 'Orange', 'White', 'White (seed)']","['25%', '25%', '25%', '25%']"
+"['rr-Oo-WW', 'rr-oo-ww']","['rr-Oo-Ww', 'rr-oo-Ww']","['Orange', 'Blue']","['Orange', 'White (seed)']","['50%', '50%']"
+"['rr-Oo-Ww', 'rr-Oo-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-OO-ww', 'rr-Oo-WW', 'rr-Oo-Ww', 'rr-Oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'Orange', 'Orange', 'Orange', 'Blue', 'White', 'White (seed)', 'Blue']","['11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%']"
+"['rr-Oo-Ww', 'rr-oo-WW']","['rr-Oo-WW', 'rr-oo-WW']","['Orange', 'White']","['Orange', 'White']","['50%', '50%']"
+"['rr-Oo-Ww', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww', 'rr-Oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Orange', 'White (seed)']","['Orange', 'Orange', 'Blue', 'White', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['rr-Oo-Ww', 'rr-oo-ww']","['rr-Oo-Ww', 'rr-Oo-ww', 'rr-oo-Ww', 'rr-oo-ww']","['Orange', 'Blue']","['Orange', 'Blue', 'White (seed)', 'Blue']","['25%', '25%', '25%', '25%']"
+"['rr-oo-WW', 'rr-oo-WW']",['rr-oo-WW'],"['White', 'White']",['White'],['100%']
+"['rr-oo-WW', 'rr-oo-Ww']","['rr-oo-WW', 'rr-oo-Ww']","['White', 'White (seed)']","['White', 'White (seed)']","['50%', '50%']"
+"['rr-oo-WW', 'rr-oo-ww']",['rr-oo-Ww'],"['White', 'Blue']",['White (seed)'],['100%']
+"['rr-oo-Ww', 'rr-oo-ww']","['rr-oo-Ww', 'rr-oo-ww']","['White (seed)', 'Blue']","['White (seed)', 'Blue']","['50%', '50%']"
+"['rr-oo-ww', 'rr-oo-ww']",['rr-oo-ww'],"['Blue', 'Blue']",['Blue'],['100%']
+"['RR-oo-WW', 'RR-oo-WW']",['RR-oo-WW'],"['Red (seed)', 'Red (seed)']",['Red (seed)'],['100%']
+"['RR-oo-WW', 'RR-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww']","['Red (seed)', 'Red']","['Red (seed)', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'RR-oo-ww']",['RR-oo-Ww'],"['Red (seed)', 'Purple']",['Red'],['100%']
+"['RR-oo-WW', 'Rr-oo-WW']","['RR-oo-WW', 'Rr-oo-WW']","['Red (seed)', 'Red']","['Red (seed)', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'Rr-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'Rr-oo-WW', 'Rr-oo-Ww']","['Red (seed)', 'Red']","['Red (seed)', 'Red', 'Red', 'Red']","['25%', '25%', '25%', '25%']"
+"['RR-oo-WW', 'Rr-oo-ww']","['RR-oo-Ww', 'Rr-oo-Ww']","['Red (seed)', 'Blue']","['Red', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'rr-Oo-WW']",['Rr-oo-WW'],"['Red (seed)', 'Orange']",['Red'],['100%']
+"['RR-oo-WW', 'rr-Oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww']","['Red (seed)', 'Orange']","['Red', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'rr-Oo-ww']",['Rr-oo-Ww'],"['Red (seed)', 'Blue']",['Red'],['100%']
+"['RR-oo-WW', 'rr-oo-WW']",['Rr-oo-WW'],"['Red (seed)', 'White']",['Red'],['100%']
+"['RR-oo-WW', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww']","['Red (seed)', 'White (seed)']","['Red', 'Red']","['50%', '50%']"
+"['RR-oo-WW', 'rr-oo-ww']",['Rr-oo-Ww'],"['Red (seed)', 'Blue']",['Red'],['100%']
+"['RR-oo-Ww', 'RR-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'RR-oo-ww']","['Red', 'Red']","['Red (seed)', 'Red', 'Purple']","['33%', '33%', '33%']"
+"['RR-oo-Ww', 'RR-oo-ww']","['RR-oo-Ww', 'RR-oo-ww']","['Red', 'Purple']","['Red', 'Purple']","['50%', '50%']"
+"['RR-oo-Ww', 'Rr-oo-WW']","['RR-oo-WW', 'Rr-oo-WW']","['Red', 'Red']","['Red (seed)', 'Red']","['50%', '50%']"
+"['RR-oo-Ww', 'Rr-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'RR-oo-ww', 'Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww']","['Red', 'Red']","['Red (seed)', 'Red', 'Purple', 'Red', 'Red', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['RR-oo-Ww', 'Rr-oo-ww']","['RR-oo-Ww', 'RR-oo-ww', 'Rr-oo-Ww', 'Rr-oo-ww']","['Red', 'Blue']","['Red', 'Purple', 'Red', 'Blue']","['25%', '25%', '25%', '25%']"
+"['RR-oo-Ww', 'rr-Oo-WW']",['Rr-oo-WW'],"['Red', 'Orange']",['Red'],['100%']
+"['RR-oo-Ww', 'rr-Oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww']","['Red', 'Orange']","['Red', 'Red', 'Blue']","['33%', '33%', '33%']"
+"['RR-oo-Ww', 'rr-Oo-ww']","['Rr-oo-Ww', 'Rr-oo-ww']","['Red', 'Blue']","['Red', 'Blue']","['50%', '50%']"
+"['RR-oo-Ww', 'rr-oo-WW']",['Rr-oo-WW'],"['Red', 'White']",['Red'],['100%']
+"['RR-oo-Ww', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww']","['Red', 'White (seed)']","['Red', 'Red', 'Blue']","['33%', '33%', '33%']"
+"['RR-oo-Ww', 'rr-oo-ww']","['Rr-oo-Ww', 'Rr-oo-ww']","['Red', 'Blue']","['Red', 'Blue']","['50%', '50%']"
+"['RR-oo-ww', 'RR-oo-ww']",['RR-oo-ww'],"['Purple', 'Purple']",['Purple'],['100%']
+"['RR-oo-ww', 'Rr-oo-Ww']","['RR-oo-ww', 'Rr-oo-ww']","['Purple', 'Red']","['Purple', 'Blue']","['50%', '50%']"
+"['RR-oo-ww', 'Rr-oo-ww']","['RR-oo-ww', 'Rr-oo-ww']","['Purple', 'Blue']","['Purple', 'Blue']","['50%', '50%']"
+"['RR-oo-ww', 'rr-Oo-Ww']",['Rr-oo-ww'],"['Purple', 'Orange']",['Blue'],['100%']
+"['RR-oo-ww', 'rr-Oo-ww']",['Rr-oo-ww'],"['Purple', 'Blue']",['Blue'],['100%']
+"['RR-oo-ww', 'rr-oo-Ww']",['Rr-oo-ww'],"['Purple', 'White (seed)']",['Blue'],['100%']
+"['RR-oo-ww', 'rr-oo-ww']",['Rr-oo-ww'],"['Purple', 'Blue']",['Blue'],['100%']
+"['Rr-oo-WW', 'Rr-oo-WW']","['RR-oo-WW', 'Rr-oo-WW', 'rr-oo-WW']","['Red', 'Red']","['Red (seed)', 'Red', 'White']","['33%', '33%', '33%']"
+"['Rr-oo-WW', 'Rr-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'Rr-oo-WW', 'Rr-oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Red', 'Red']","['Red (seed)', 'Red', 'Red', 'Red', 'White', 'White (seed)']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['Rr-oo-WW', 'Rr-oo-ww']","['RR-oo-Ww', 'Rr-oo-Ww', 'rr-oo-Ww']","['Red', 'Blue']","['Red', 'Red', 'White (seed)']","['33%', '33%', '33%']"
+"['Rr-oo-WW', 'rr-Oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'Orange']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-WW', 'rr-Oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Red', 'Orange']","['Red', 'Red', 'White', 'White (seed)']","['25%', '25%', '25%', '25%']"
+"['Rr-oo-WW', 'rr-Oo-ww']","['Rr-oo-Ww', 'rr-oo-Ww']","['Red', 'Blue']","['Red', 'White (seed)']","['50%', '50%']"
+"['Rr-oo-WW', 'rr-oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'White']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-WW', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Red', 'White (seed)']","['Red', 'Red', 'White', 'White (seed)']","['25%', '25%', '25%', '25%']"
+"['Rr-oo-WW', 'rr-oo-ww']","['Rr-oo-Ww', 'rr-oo-Ww']","['Red', 'Blue']","['Red', 'White (seed)']","['50%', '50%']"
+"['Rr-oo-Ww', 'Rr-oo-Ww']","['RR-oo-WW', 'RR-oo-Ww', 'RR-oo-ww', 'Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Red']","['Red (seed)', 'Red', 'Purple', 'Red', 'Red', 'Blue', 'White', 'White (seed)', 'Blue']","['11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%']"
+"['Rr-oo-Ww', 'Rr-oo-ww']","['RR-oo-Ww', 'RR-oo-ww', 'Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Blue']","['Red', 'Purple', 'Red', 'Blue', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['Rr-oo-Ww', 'rr-Oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'Orange']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-Ww', 'rr-Oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Orange']","['Red', 'Red', 'Blue', 'White', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['Rr-oo-Ww', 'rr-Oo-ww']","['Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Blue']","['Red', 'Blue', 'White (seed)', 'Blue']","['25%', '25%', '25%', '25%']"
+"['Rr-oo-Ww', 'rr-oo-WW']","['Rr-oo-WW', 'rr-oo-WW']","['Red', 'White']","['Red', 'White']","['50%', '50%']"
+"['Rr-oo-Ww', 'rr-oo-Ww']","['Rr-oo-WW', 'Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'White (seed)']","['Red', 'Red', 'Blue', 'White', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['Rr-oo-Ww', 'rr-oo-ww']","['Rr-oo-Ww', 'Rr-oo-ww', 'rr-oo-Ww', 'rr-oo-ww']","['Red', 'Blue']","['Red', 'Blue', 'White (seed)', 'Blue']","['25%', '25%', '25%', '25%']"
+"['Rr-oo-ww', 'Rr-oo-ww']","['RR-oo-ww', 'Rr-oo-ww', 'rr-oo-ww']","['Blue', 'Blue']","['Purple', 'Blue', 'Blue']","['33%', '33%', '33%']"
+"['Rr-oo-ww', 'rr-Oo-Ww']","['Rr-oo-ww', 'rr-oo-ww']","['Blue', 'Orange']","['Blue', 'Blue']","['50%', '50%']"
+"['Rr-oo-ww', 'rr-Oo-ww']","['Rr-oo-ww', 'rr-oo-ww']","['Blue', 'Blue']","['Blue', 'Blue']","['50%', '50%']"
+"['Rr-oo-ww', 'rr-oo-Ww']","['Rr-oo-ww', 'rr-oo-ww']","['Blue', 'White (seed)']","['Blue', 'Blue']","['50%', '50%']"
+"['Rr-oo-ww', 'rr-oo-ww']","['Rr-oo-ww', 'rr-oo-ww']","['Blue', 'Blue']","['Blue', 'Blue']","['50%', '50%']"
+"['rr-OO-WW', 'rr-OO-WW']",['rr-OO-WW'],"['Orange (seed)', 'Orange (seed)']",['Orange (seed)'],['100%']
+"['rr-OO-WW', 'rr-OO-Ww']","['rr-OO-WW', 'rr-OO-Ww']","['Orange (seed)', 'Orange']","['Orange (seed)', 'Orange']","['50%', '50%']"
+"['rr-OO-WW', 'rr-OO-ww']",['rr-OO-Ww'],"['Orange (seed)', 'Orange']",['Orange'],['100%']
+"['rr-OO-WW', 'rr-Oo-WW']","['rr-OO-WW', 'rr-Oo-WW']","['Orange (seed)', 'Orange']","['Orange (seed)', 'Orange']","['50%', '50%']"
+"['rr-OO-WW', 'rr-Oo-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-Oo-WW', 'rr-Oo-Ww']","['Orange (seed)', 'Orange']","['Orange (seed)', 'Orange', 'Orange', 'Orange']","['25%', '25%', '25%', '25%']"
+"['rr-OO-WW', 'rr-Oo-ww']","['rr-OO-Ww', 'rr-Oo-Ww']","['Orange (seed)', 'Blue']","['Orange', 'Orange']","['50%', '50%']"
+"['rr-OO-WW', 'rr-oo-WW']",['rr-Oo-WW'],"['Orange (seed)', 'White']",['Orange'],['100%']
+"['rr-OO-WW', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww']","['Orange (seed)', 'White (seed)']","['Orange', 'Orange']","['50%', '50%']"
+"['rr-OO-WW', 'rr-oo-ww']",['rr-Oo-Ww'],"['Orange (seed)', 'Blue']",['Orange'],['100%']
+"['rr-OO-Ww', 'rr-OO-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-OO-ww']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'Orange']","['33%', '33%', '33%']"
+"['rr-OO-Ww', 'rr-OO-ww']","['rr-OO-Ww', 'rr-OO-ww']","['Orange', 'Orange']","['Orange', 'Orange']","['50%', '50%']"
+"['rr-OO-Ww', 'rr-Oo-WW']","['rr-OO-WW', 'rr-Oo-WW']","['Orange', 'Orange']","['Orange (seed)', 'Orange']","['50%', '50%']"
+"['rr-OO-Ww', 'rr-Oo-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-OO-ww', 'rr-Oo-WW', 'rr-Oo-Ww', 'rr-Oo-ww']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'Orange', 'Orange', 'Orange', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['rr-OO-Ww', 'rr-Oo-ww']","['rr-OO-Ww', 'rr-OO-ww', 'rr-Oo-Ww', 'rr-Oo-ww']","['Orange', 'Blue']","['Orange', 'Orange', 'Orange', 'Blue']","['25%', '25%', '25%', '25%']"
+"['rr-OO-Ww', 'rr-oo-WW']",['rr-Oo-WW'],"['Orange', 'White']",['Orange'],['100%']
+"['rr-OO-Ww', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww', 'rr-Oo-ww']","['Orange', 'White (seed)']","['Orange', 'Orange', 'Blue']","['33%', '33%', '33%']"
+"['rr-OO-Ww', 'rr-oo-ww']","['rr-Oo-Ww', 'rr-Oo-ww']","['Orange', 'Blue']","['Orange', 'Blue']","['50%', '50%']"
+"['rr-OO-ww', 'rr-OO-ww']",['rr-OO-ww'],"['Orange', 'Orange']",['Orange'],['100%']
+"['rr-OO-ww', 'rr-Oo-Ww']","['rr-OO-ww', 'rr-Oo-ww']","['Orange', 'Orange']","['Orange', 'Blue']","['50%', '50%']"
+"['rr-OO-ww', 'rr-Oo-ww']","['rr-OO-ww', 'rr-Oo-ww']","['Orange', 'Blue']","['Orange', 'Blue']","['50%', '50%']"
+"['rr-OO-ww', 'rr-oo-Ww']",['rr-Oo-ww'],"['Orange', 'White (seed)']",['Blue'],['100%']
+"['rr-OO-ww', 'rr-oo-ww']",['rr-Oo-ww'],"['Orange', 'Blue']",['Blue'],['100%']
+"['rr-Oo-WW', 'rr-Oo-WW']","['rr-OO-WW', 'rr-Oo-WW', 'rr-oo-WW']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'White']","['33%', '33%', '33%']"
+"['rr-Oo-WW', 'rr-Oo-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-Oo-WW', 'rr-Oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'Orange', 'Orange', 'White', 'White (seed)']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['rr-Oo-WW', 'rr-Oo-ww']","['rr-OO-Ww', 'rr-Oo-Ww', 'rr-oo-Ww']","['Orange', 'Blue']","['Orange', 'Orange', 'White (seed)']","['33%', '33%', '33%']"
+"['rr-Oo-WW', 'rr-oo-WW']","['rr-Oo-WW', 'rr-oo-WW']","['Orange', 'White']","['Orange', 'White']","['50%', '50%']"
+"['rr-Oo-WW', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww', 'rr-oo-WW', 'rr-oo-Ww']","['Orange', 'White (seed)']","['Orange', 'Orange', 'White', 'White (seed)']","['25%', '25%', '25%', '25%']"
+"['rr-Oo-WW', 'rr-oo-ww']","['rr-Oo-Ww', 'rr-oo-Ww']","['Orange', 'Blue']","['Orange', 'White (seed)']","['50%', '50%']"
+"['rr-Oo-Ww', 'rr-Oo-Ww']","['rr-OO-WW', 'rr-OO-Ww', 'rr-OO-ww', 'rr-Oo-WW', 'rr-Oo-Ww', 'rr-Oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Orange', 'Orange']","['Orange (seed)', 'Orange', 'Orange', 'Orange', 'Orange', 'Blue', 'White', 'White (seed)', 'Blue']","['11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%', '11%']"
+"['rr-Oo-Ww', 'rr-Oo-ww']","['rr-OO-Ww', 'rr-OO-ww', 'rr-Oo-Ww', 'rr-Oo-ww', 'rr-oo-Ww', 'rr-oo-ww']","['Orange', 'Blue']","['Orange', 'Orange', 'Orange', 'Blue', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['rr-Oo-Ww', 'rr-oo-WW']","['rr-Oo-WW', 'rr-oo-WW']","['Orange', 'White']","['Orange', 'White']","['50%', '50%']"
+"['rr-Oo-Ww', 'rr-oo-Ww']","['rr-Oo-WW', 'rr-Oo-Ww', 'rr-Oo-ww', 'rr-oo-WW', 'rr-oo-Ww', 'rr-oo-ww']","['Orange', 'White (seed)']","['Orange', 'Orange', 'Blue', 'White', 'White (seed)', 'Blue']","['16%', '16%', '16%', '16%', '16%', '16%']"
+"['rr-Oo-Ww', 'rr-oo-ww']","['rr-Oo-Ww', 'rr-Oo-ww', 'rr-oo-Ww', 'rr-oo-ww']","['Orange', 'Blue']","['Orange', 'Blue', 'White (seed)', 'Blue']","['25%', '25%', '25%', '25%']"
+"['rr-Oo-ww', 'rr-Oo-ww']","['rr-OO-ww', 'rr-Oo-ww', 'rr-oo-ww']","['Blue', 'Blue']","['Orange', 'Blue', 'Blue']","['33%', '33%', '33%']"
+"['rr-Oo-ww', 'rr-oo-Ww']","['rr-Oo-ww', 'rr-oo-ww']","['Blue', 'White (seed)']","['Blue', 'Blue']","['50%', '50%']"
+"['rr-Oo-ww', 'rr-oo-ww']","['rr-Oo-ww', 'rr-oo-ww']","['Blue', 'Blue']","['Blue', 'Blue']","['50%', '50%']"
+"['rr-oo-WW', 'rr-oo-WW']",['rr-oo-WW'],"['White', 'White']",['White'],['100%']
+"['rr-oo-WW', 'rr-oo-Ww']","['rr-oo-WW', 'rr-oo-Ww']","['White', 'White (seed)']","['White', 'White (seed)']","['50%', '50%']"
+"['rr-oo-WW', 'rr-oo-ww']",['rr-oo-Ww'],"['White', 'Blue']",['White (seed)'],['100%']
+"['rr-oo-Ww', 'rr-oo-ww']","['rr-oo-Ww', 'rr-oo-ww']","['White (seed)', 'Blue']","['White (seed)', 'Blue']","['50%', '50%']"

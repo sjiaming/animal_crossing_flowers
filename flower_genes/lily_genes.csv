@@ -1,0 +1,18 @@
+breading_pair,breading_results,breading_pair_color,breading_results_color,probability
+"['RR-yy-Ss', 'RR-yy-Ss']","['RR-yy-SS', 'RR-yy-Ss', 'RR-yy-ss']","['Red (seed)', 'Red (seed)']","['Pink', 'Red (seed)', 'Black']","['33%', '33%', '33%']"
+"['RR-yy-Ss', 'rr-yy-SS']",['Rr-yy-SS'],"['Red (seed)', 'White (seed)']",['White'],['100%']
+"['rr-YY-ss', 'rr-YY-ss']",['rr-YY-ss'],"['Yellow (seed)', 'Yellow (seed)']",['Yellow (seed)'],['100%']
+"['rr-yy-SS', 'rr-yy-SS']",['rr-yy-SS'],"['White (seed)', 'White (seed)']",['White (seed)'],['100%']
+"['RR-yy-SS', 'RR-yy-SS']",['RR-yy-SS'],"['Pink', 'Pink']",['Pink'],['100%']
+"['RR-yy-SS', 'RR-yy-Ss']","['RR-yy-SS', 'RR-yy-Ss']","['Pink', 'Red (seed)']","['Pink', 'Red (seed)']","['50%', '50%']"
+"['RR-yy-SS', 'RR-yy-ss']",['RR-yy-Ss'],"['Pink', 'Black']",['Red (seed)'],['100%']
+"['RR-yy-SS', 'Rr-yy-SS']","['RR-yy-SS', 'Rr-yy-SS']","['Pink', 'White']","['Pink', 'White']","['50%', '50%']"
+"['RR-yy-SS', 'rr-yy-SS']",['Rr-yy-SS'],"['Pink', 'White (seed)']",['White'],['100%']
+"['RR-yy-Ss', 'RR-yy-Ss']","['RR-yy-SS', 'RR-yy-Ss', 'RR-yy-ss']","['Red (seed)', 'Red (seed)']","['Pink', 'Red (seed)', 'Black']","['33%', '33%', '33%']"
+"['RR-yy-Ss', 'RR-yy-ss']","['RR-yy-Ss', 'RR-yy-ss']","['Red (seed)', 'Black']","['Red (seed)', 'Black']","['50%', '50%']"
+"['RR-yy-Ss', 'Rr-yy-SS']","['RR-yy-SS', 'Rr-yy-SS']","['Red (seed)', 'White']","['Pink', 'White']","['50%', '50%']"
+"['RR-yy-Ss', 'rr-yy-SS']",['Rr-yy-SS'],"['Red (seed)', 'White (seed)']",['White'],['100%']
+"['RR-yy-ss', 'RR-yy-ss']",['RR-yy-ss'],"['Black', 'Black']",['Black'],['100%']
+"['Rr-yy-SS', 'Rr-yy-SS']","['RR-yy-SS', 'Rr-yy-SS', 'rr-yy-SS']","['White', 'White']","['Pink', 'White', 'White (seed)']","['33%', '33%', '33%']"
+"['Rr-yy-SS', 'rr-yy-SS']","['Rr-yy-SS', 'rr-yy-SS']","['White', 'White (seed)']","['White', 'White (seed)']","['50%', '50%']"
+"['rr-YY-ss', 'rr-YY-ss']",['rr-YY-ss'],"['Yellow (seed)', 'Yellow (seed)']",['Yellow (seed)'],['100%']
