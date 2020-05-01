@@ -1,4 +1,4 @@
-breading_pair,breading_results,breading_pair_color,breading_results_color,probability
+breeding_pair,breeding_results,breeding_pair_color,breeding_results_color,probability
 "['RR-yy-Ss', 'RR-yy-Ss']","['RR-yy-SS', 'RR-yy-Ss', 'RR-yy-ss']","['Red (seed)', 'Red (seed)']","['Pink', 'Red (seed)', 'Black']","['33%', '33%', '33%']"
 "['RR-yy-Ss', 'rr-yy-SS']",['Rr-yy-SS'],"['Red (seed)', 'White (seed)']",['White'],['100%']
 "['rr-YY-ss', 'rr-YY-ss']",['rr-YY-ss'],"['Yellow (seed)', 'Yellow (seed)']",['Yellow (seed)'],['100%']
