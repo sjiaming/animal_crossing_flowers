@@ -2,6 +2,9 @@ genes,color
 RR-yy-ss,Red (seed)
 rr-YY-Ss,Yellow (seed)
 rr-yy-Ss,White (seed)
+Rr-Yy-Ss,Orange
+Rr-Yy-ss,Orange
+Rr-yy-Ss,Pink
 Rr-yy-ss,Pink
 rr-YY-SS,Yellow
 rr-YY-ss,Yellow
@@ -10,3 +13,16 @@ rr-Yy-Ss,Yellow
 rr-Yy-ss,Yellow
 rr-yy-SS,White
 rr-yy-ss,White
+RR-Yy-Ss,Orange
+RR-Yy-ss,Orange
+RR-yy-Ss,Red
+RR-YY-SS,Red
+RR-YY-Ss,Black
+RR-YY-ss,Black
+RR-Yy-SS,Red
+RR-yy-SS,Red
+Rr-YY-SS,Orange
+Rr-YY-Ss,Orange
+Rr-YY-ss,Orange
+Rr-Yy-SS,Pink
+Rr-yy-SS,Pink

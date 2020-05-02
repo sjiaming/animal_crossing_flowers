@@ -2,15 +2,27 @@ genes,color
 RR-yy-WW,Red (seed)
 rr-YY-WW,Yellow (seed)
 rr-yy-Ww,White (seed)
+Rr-Yy-WW,Yellow
 Rr-yy-WW,Pink
 Rr-yy-Ww,Pink
 rr-Yy-WW,Yellow
 rr-Yy-Ww,Yellow
 rr-yy-WW,White
 rr-yy-ww,Purple
+RR-Yy-WW,Purple
 RR-yy-Ww,Red
+Rr-Yy-Ww,Red
+RR-YY-WW,Green
+Rr-YY-WW,Purple
+RR-Yy-Ww,Purple
+Rr-YY-Ww,Purple
+rr-YY-Ww,Yellow
 RR-yy-ww,Red
 Rr-yy-ww,Pink
-rr-YY-Ww,Yellow
-rr-YY-ww,Yellow
+Rr-Yy-ww,Pink
 rr-Yy-ww,White
+rr-YY-ww,Yellow
+RR-YY-Ww,Green
+RR-YY-ww,Red
+RR-Yy-ww,Red
+Rr-YY-ww,Purple
